@@ -1,4 +1,4 @@
-# Pocket
+# Pocket_16S
 **Requirements 
 
 Python 2.7 or higher 
